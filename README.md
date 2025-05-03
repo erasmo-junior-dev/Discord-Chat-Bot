@@ -52,6 +52,6 @@ python app.py
 
 ## 📜 License
 
-- This project is licensed under the MIT License.
+- This project is licensed under the [MIT License](./LICENSE).
 
 > Developed with dedication by Erasmo da Silva Sá Junior.
